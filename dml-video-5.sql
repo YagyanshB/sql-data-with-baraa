@@ -70,3 +70,5 @@ DELETE FROM persons
 -- clears the whole table at once without checking or logging
 
 -- TRUNCATE vs DROP 
+
+TRUNCATE TABLE customers;
